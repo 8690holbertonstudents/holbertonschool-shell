@@ -1,2 +1,2 @@
-#!/bin/bash
-grep 'A\c' | tr Ac Ze
+#!/bin/bin
+tr Ac Ze
